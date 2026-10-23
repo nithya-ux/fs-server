@@ -1,0 +1,435 @@
+{
+  "products": [
+    {
+      "id": "2",
+      "name": "Oversized Graphic Tee",
+      "price": 799,
+      "category": "Tops",
+      "image": "https://images.unsplash.com/photo-1521572163474-6864f9cf17ab?w=600"
+    },
+    {
+      "id": "3",
+      "name": "Classic Denim Jacket",
+      "price": 1899,
+      "category": "Jackets",
+      "image": "https://images.unsplash.com/photo-1551028719-00167b16eac5?w=600"
+    },
+    {
+      "id": "4",
+      "name": "Mini Shoulder Bag",
+      "price": 999,
+      "category": "Accessories",
+      "image": "https://images.unsplash.com/photo-1584917865442-de89df76afd3?w=600"
+    },
+    {
+      "id": "5",
+      "name": "Wide Leg Cargo Jeans",
+      "price": 1699,
+      "category": "Jeans",
+      "image": "https://images.unsplash.com/photo-1602293589930-45aad59ba3ab?w=600"
+    },
+    {
+      "id": "6",
+      "name": "Minimal White Shirt",
+      "price": 999,
+      "category": "Tops",
+      "image": "https://images.unsplash.com/photo-1603252110481-7ba873bf42ab?w=600"
+    },
+    {
+      "id": "8",
+      "name": "Everyday Shoulder Bag",
+      "price": 1199,
+      "category": "Accessories",
+      "image": "https://images.unsplash.com/photo-1594223274512-ad4803739b7c?w=600"
+    },
+    {
+      "name": "Vintage  washed Jeans",
+      "price": 1799,
+      "category": "Jeans",
+      "image": "https://offduty.in/cdn/shop/files/Image_Sep_3_2026_01_21_58_PM.png?v=1788424816&width=1200",
+      "id": "FdQbZ3Z",
+      "sold": true
+    },
+    {
+      "title": " Oversized Shirt",
+      "price": 1150,
+      "category": "Casual Wear",
+      "image": "https://cahoot.in/cdn/shop/files/CSMSSRT3733_1.jpg?v=1786003254&width=800",
+      "description": "Check Flannel Oversized Shirt (s)",
+      "id": "CX4B5M5"
+    },
+    {
+      "title": "men shouse",
+      "price": 2000,
+      "category": "Shoes",
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRa4mNuZFK60rvQaMcAWwWRIvn280qYDjHHNDnBIr1jUA9S6WW6z0JX4nck&s=10",
+      "description": "Air jordan 1Mid",
+      "id": "sgcTjG3"
+    },
+    {
+      "title": "KURTHI",
+      "price": 2500,
+      "category": "Ethnic Wear",
+      "image": "https://clothsvilla.com/cdn/shop/files/yellow-embroidered-gown-sharara-set_2.jpg?format=webp&v=1775218079&width=480",
+      "description": "Yellow Kurthi with hand work",
+      "sellerEmail": "abyy@gmail.com",
+      "storeName": "ABYY",
+      "id": "yKGTvSu",
+      "sold": true
+    },
+    {
+      "title": "Rings",
+      "price": 300,
+      "category": "Beauty & Makeup",
+      "image": "https://i.pinimg.com/736x/5d/35/f1/5d35f1b40ac3d5fe42579befc264aed6.jpg",
+      "description": "Golden Rings",
+      "sellerEmail": "abyy@gmail.com",
+      "storeName": "ABYY",
+      "id": "KSgBvqC"
+    },
+    {
+      "title": "chunky Ring",
+      "price": 400,
+      "category": "Beauty & Makeup",
+      "image": "https://img.staticdj.com/744d891f23a0c4556c750ad8703c3e47_720x.jpeg",
+      "description": "chunky golden Ring ",
+      "sellerEmail": "abyy@gmail.com",
+      "storeName": "ABYY",
+      "id": "3VY6JF-"
+    },
+    {
+      "title": " Jeans",
+      "price": 2400,
+      "category": "Casual Wear",
+      "image": "https://i.pinimg.com/736x/02/cd/4d/02cd4df53a7f03cd7fd35ec333f779ea.jpg",
+      "description": "Sprinkled Jeans for women",
+      "sellerEmail": "abyy@gmail.com",
+      "storeName": "ABYY",
+      "id": "dXauY4D",
+      "sold": true
+    },
+    {
+      "title": "Top",
+      "price": 1150,
+      "category": "Office Wear",
+      "image": "https://i.pinimg.com/736x/ee/39/52/ee3952a5edf8935e876239614f96a0a0.jpg",
+      "description": "Office Wear",
+      "sellerEmail": "abyy@gmail.com",
+      "storeName": "ABYY",
+      "id": "BmMHJBn"
+    },
+    {
+      "title": "Top",
+      "price": 250,
+      "category": "Casual Wear",
+      "image": "https://i.pinimg.com/1200x/a5/36/8d/a5368d9fe0cb9649236c84215fa38395.jpg",
+      "description": "daily top for women",
+      "sellerEmail": "velora@gmail.com",
+      "storeName": "Velora",
+      "id": "r1auInd"
+    },
+    {
+      "title": "Office pair",
+      "price": 2500,
+      "category": "Office Wear",
+      "image": "https://i.pinimg.com/736x/5c/aa/1e/5caa1e738fdd9c92ecf916f2c0de7184.jpg",
+      "description": "Office pair set",
+      "sellerEmail": "velora@gmail.com",
+      "storeName": "Velora",
+      "id": "ZC6N9E8"
+    },
+    {
+      "title": "wide net jeans",
+      "price": 1500,
+      "category": "Casual Wear",
+      "image": "https://i.pinimg.com/736x/6a/1a/96/6a1a961110b913c1afc381204eef7b39.jpg",
+      "description": "wide net jeans for women",
+      "sellerEmail": "velora@gmail.com",
+      "storeName": "Velora",
+      "id": "7CIGNy1"
+    },
+    {
+      "title": "Jacket ",
+      "price": 1700,
+      "category": "Casual Wear",
+      "image": "https://i.pinimg.com/736x/08/5f/c3/085fc318d7fb5c0bdc91a21f2bb510b0.jpg",
+      "description": "Burgundy Leather Jacket ",
+      "sellerEmail": "velora@gmail.com",
+      "storeName": "Velora",
+      "id": "JRjqnJt"
+    },
+    {
+      "title": "Jeans",
+      "price": 1620,
+      "category": "Casual Wear",
+      "image": "https://i.pinimg.com/736x/a0/6b/34/a06b34bbacf993a4f196e06a7b328276.jpg",
+      "description": "casual jeans",
+      "sellerEmail": "velora@gmail.com",
+      "storeName": "Velora",
+      "id": "A46_AU2"
+    },
+    {
+      "title": "red lehenga",
+      "price": 5000,
+      "category": "Ethnic Wear",
+      "image": "https://i.pinimg.com/736x/b3/2c/63/b32c63b1c1b00ccb60605d1fe720f5ec.jpg",
+      "description": "red lehenga",
+      "sellerEmail": "velora@gmail.com",
+      "storeName": "Velora",
+      "id": "Q1WFVzS"
+    },
+    {
+      "title": "lehenga",
+      "price": 4000,
+      "category": "Ethnic Wear",
+      "image": "https://i.pinimg.com/1200x/80/fa/e8/80fae86f15669642c1a3a1972afeedca.jpg",
+      "description": "Rose lehenga",
+      "sellerEmail": "velora@gmail.com",
+      "storeName": "Velora",
+      "id": "GgugFBF",
+      "sold": true
+    },
+    {
+      "title": "Rings",
+      "price": 400,
+      "category": "Beauty & Makeup",
+      "image": "https://i.pinimg.com/736x/2f/9d/9f/2f9d9f0eeef02682891ce8fcd184e110.jpg",
+      "description": "Golden Rings",
+      "sellerEmail": "velora@gmail.com",
+      "storeName": "Velora",
+      "id": "LwqWGYI",
+      "sold": true
+    }
+  ],
+  "orders": [
+    {
+      "customer": {
+        "name": "nithya",
+        "email": "example@gmail.com",
+        "phone": "9876543210",
+        "address": "Example address",
+        "city": "Kozhikode",
+        "pincode": "673001"
+      },
+      "products": [
+        {
+          "id": "1",
+          "name": "Classic Baggy Jeans",
+          "price": 1499,
+          "category": "Jeans",
+          "image": "https://images.unsplash.com/photo-1541099649105-f69ad21f3246?w=600",
+          "quantity": 1
+        }
+      ],
+      "total": 1499,
+      "id": 1
+    },
+    {
+      "customer": {
+        "name": "sandra",
+        "email": "sandra@gmail.com",
+        "phone": "9874561230",
+        "address": "chickmangaluru",
+        "city": "bangaluru",
+        "pincode": "45752"
+      },
+      "products": [
+        {
+          "id": "1",
+          "name": "Classic Baggy Jeans",
+          "price": 1499,
+          "category": "Jeans",
+          "image": "https://images.unsplash.com/photo-1541099649105-f69ad21f3246?w=600",
+          "quantity": 1
+        }
+      ],
+      "total": 1499,
+      "id": 2
+    },
+    {
+      "customer": {
+        "name": "Nithya",
+        "email": "test@gmail.com",
+        "phone": "9874561230",
+        "address": "kerala",
+        "city": "bangaluru",
+        "pincode": "4582"
+      },
+      "products": [
+        {
+          "id": "3",
+          "name": "Classic Denim Jacket",
+          "price": 1899,
+          "category": "Jackets",
+          "image": "https://images.unsplash.com/photo-1551028719-00167b16eac5?w=600",
+          "quantity": 1
+        },
+        {
+          "name": "Vintage  washed Jeans",
+          "price": 1799,
+          "category": "Jeans",
+          "image": "https://offduty.in/cdn/shop/files/Image_Sep_3_2026_01_21_58_PM.png?v=1788424816&width=1200",
+          "id": "FdQbZ3Z",
+          "quantity": 1
+        }
+      ],
+      "total": 3698,
+      "id": 3
+    },
+    {
+      "customer": {
+        "name": "Nithya Sivan",
+        "email": "tests@gmail.com",
+        "phone": "9874561230",
+        "address": "hgdhc",
+        "city": "bangaluru",
+        "pincode": "4582"
+      },
+      "products": [
+        {
+          "id": "2",
+          "name": "Oversized Graphic Tee",
+          "price": 799,
+          "category": "Tops",
+          "image": "https://images.unsplash.com/photo-1521572163474-6864f9cf17ab?w=600",
+          "quantity": 1
+        }
+      ],
+      "total": 799,
+      "id": 4
+    },
+    {
+      "customer": {
+        "name": "Nayana AS",
+        "email": "test@gmail.com",
+        "phone": "9874561230",
+        "address": "wayand,kerala",
+        "city": "8\\4",
+        "pincode": "670731"
+      },
+      "products": [
+        {
+          "name": "Vintage  washed Jeans",
+          "price": 1799,
+          "category": "Jeans",
+          "image": "https://offduty.in/cdn/shop/files/Image_Sep_3_2026_01_21_58_PM.png?v=1788424816&width=1200",
+          "id": "FdQbZ3Z",
+          "quantity": 1
+        },
+        {
+          "title": "KURTHI",
+          "price": 2500,
+          "category": "Ethnic Wear",
+          "image": "https://clothsvilla.com/cdn/shop/files/yellow-embroidered-gown-sharara-set_2.jpg?format=webp&v=1775218079&width=480",
+          "description": "Yellow Kurthi with hand work",
+          "sellerEmail": "abyy@gmail.com",
+          "storeName": "ABYY",
+          "id": "yKGTvSu",
+          "quantity": 1
+        }
+      ],
+      "total": 4299,
+      "id": 5
+    },
+    {
+      "customer": {
+        "name": "Nithya Sivan",
+        "email": "tests@gmail.com",
+        "phone": "9876543210",
+        "address": "karnadaka",
+        "city": "bangaluru",
+        "pincode": "4521"
+      },
+      "products": [
+        {
+          "title": "Rings",
+          "price": 400,
+          "category": "Beauty & Makeup",
+          "image": "https://i.pinimg.com/736x/2f/9d/9f/2f9d9f0eeef02682891ce8fcd184e110.jpg",
+          "description": "Golden Rings",
+          "sellerEmail": "velora@gmail.com",
+          "storeName": "Velora",
+          "id": "LwqWGYI",
+          "quantity": 1
+        }
+      ],
+      "total": 400,
+      "id": 6
+    },
+    {
+      "customer": {
+        "name": "sandra",
+        "email": "sandra@gmail.com",
+        "phone": "9876543210",
+        "address": "gfgcgn",
+        "city": "bangaluru",
+        "pincode": "4582"
+      },
+      "products": [
+        {
+          "title": " Jeans",
+          "price": 2400,
+          "category": "Casual Wear",
+          "image": "https://i.pinimg.com/736x/02/cd/4d/02cd4df53a7f03cd7fd35ec333f779ea.jpg",
+          "description": "Sprinkled Jeans for women",
+          "sellerEmail": "abyy@gmail.com",
+          "storeName": "ABYY",
+          "id": "dXauY4D",
+          "quantity": 1
+        }
+      ],
+      "total": 2400,
+      "id": 7
+    },
+    {
+      "customer": {
+        "name": "sunitha",
+        "email": "sunitha@gmail.com",
+        "phone": "2587413698",
+        "address": "xnvbudhrkubd",
+        "city": "wayanad",
+        "pincode": "670731"
+      },
+      "products": [
+        {
+          "title": "lehenga",
+          "price": 4000,
+          "category": "Ethnic Wear",
+          "image": "https://i.pinimg.com/1200x/80/fa/e8/80fae86f15669642c1a3a1972afeedca.jpg",
+          "description": "Rose lehenga",
+          "sellerEmail": "velora@gmail.com",
+          "storeName": "Velora",
+          "id": "GgugFBF",
+          "quantity": 1
+        }
+      ],
+      "total": 4000,
+      "id": 8
+    },
+    {
+      "customer": {
+        "name": "sunitha",
+        "email": "sunitha@gmail.com",
+        "phone": "2587413698",
+        "address": "xnvbudhrkubd",
+        "city": "wayanad",
+        "pincode": "670731"
+      },
+      "products": [
+        {
+          "title": "lehenga",
+          "price": 4000,
+          "category": "Ethnic Wear",
+          "image": "https://i.pinimg.com/1200x/80/fa/e8/80fae86f15669642c1a3a1972afeedca.jpg",
+          "description": "Rose lehenga",
+          "sellerEmail": "velora@gmail.com",
+          "storeName": "Velora",
+          "id": "GgugFBF",
+          "quantity": 1
+        }
+      ],
+      "total": 4000,
+      "id": 9
+    }
+  ]
+}
